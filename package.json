@@ -1,8 +1,8 @@
 
 {
-  "name": "DANUWA-MD",
+  "name": "Kakashi hatake-MD",
   "version": "1.0.0",
-  "description": "DANUWA-MD - WhatsApp Pair Code Generator",
+  "description": "Kakashi hatake-MD- WhatsApp Pair Code Generator",
   "main": "index.js",
   "type": "module",
   "engines": {
